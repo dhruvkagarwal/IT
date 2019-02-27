@@ -12,6 +12,6 @@ a=in.nextInt();
 b=in.nextInt();
 c=a+b;
 
-system.out.println("The sum of two no is :-"+a);
+system.out.println("The sum of two no is :-"+c);
 }
 }
