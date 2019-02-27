@@ -1,17 +1,17 @@
-import.java.util.Scanner;
+import java.util.Scanner;
 
-class Addition{
-public static void main(Sting[]args)
+Class Addition{
+public static void main(String[] args)
 {
 
 int a,b,c;
-system.out.println("Calculate the sum of two no.'s as addition:-")
-Scanner in = new Scanner(System.in);
+System.out.println("Calculate the sum of two no.'s as addition:-")
+Scanner sc = new Scanner(System.in);
 
-a=in.nextInt();
-b=in.nextInt();
+a=sc.nextInt();
+b=sc.nextInt();
 c=a+b;
 
-system.out.println("The sum of two no is :-"+c);
+System.out.println("The sum of two no is :-"+c);
 }
 }
