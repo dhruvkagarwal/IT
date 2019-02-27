@@ -1,0 +1,18 @@
+
+import.java.util.Scanner;
+
+class multiplication{
+public static void main(Sting[]args)
+{
+
+int a,b,c;
+system.out.println("Calculate the sum of two no.'s as addition:-")
+Scanner in = new Scanner(System.in);
+
+a=in.nextInt();
+b=in.nextInt();
+c=a*b;
+
+system.out.println("The sum of two no is :-"*c);
+}
+}
